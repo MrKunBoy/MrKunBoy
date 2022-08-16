@@ -76,3 +76,9 @@
 </div>
 
 <br>
+
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/kunboy-quotes.svg" width="846" height="150" alt="kunboy-dev" />
+</a>
